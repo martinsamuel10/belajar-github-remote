@@ -7,7 +7,7 @@
   <title>Mahasiswa</title>
 </head>
 <body>
-  <h1>Mahasiswa</h1>
+  <h1>Martin</h1>
   <?php echo "Hallo" ?>
 </body>
 </html>
